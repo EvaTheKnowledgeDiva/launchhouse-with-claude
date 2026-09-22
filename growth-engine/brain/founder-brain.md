@@ -9,7 +9,7 @@
 - **Locked:** 2026-09-16
 
 ## Thesis
-Captured is for special education teachers in self-contained classrooms who walk into an IEP meeting thinking "I have no idea what to show these parents" — it turns one tap or a spoken note into real-time progress charts, regression and mastery alerts, and finished reports, built by someone who spent 21 years inside schools, and it's the only tool in the space where you can document an incident just by talking.
+Captured is for special education teachers in self-contained classrooms who walk into an IEP meeting thinking "I have no idea what to show these parents." It turns one tap or a spoken note into real-time progress charts, regression and mastery alerts, and finished reports, built by someone who spent 21 years inside schools, and it's the only tool in the space where you can document an incident just by talking.
 
 ## Offer
 **What it is:** An app for special education teachers and their paraprofessionals to document IEP goal progress, behavior goal progress, and incidents. Data goes in by one-tap capture or voice note, in the moment, instead of onto a paper tracker that later gets hand-typed into a spreadsheet. The app auto-generates charts and progress reports.
@@ -32,21 +32,21 @@ Captured is for special education teachers in self-contained classrooms who walk
 - Voice capture is the wedge, and it matters most at the worst moment: after a CPI hold, when the teacher must document an incident and staff need the record for legal protection.
 
 ## Audience
-**Persona:** A newer special education teacher, 1–5 years in — chosen deliberately, because she has not yet built systems of her own and gotten used to them.
+**Persona:** A newer special education teacher, 1 to 5 years in, chosen deliberately, because she has not yet built systems of her own and gotten used to them.
 
-- **Classroom:** self-contained, K–12, caseload 8–30 students, supervising 2–8 paraprofessionals or teaching assistants.
+- **Classroom:** self-contained, K to 12, caseload 8 to 30 students, supervising 2 to 8 paraprofessionals or teaching assistants.
 - **Setting:** public school is the target market; private schools are an easier door to get in front of.
 - **State of mind:** overwhelmed by the demands of special education, and feeling lost specifically on documentation.
 
-**Desire:** Something organized that shows her the growth or decline of each student in real time. Underneath that, fear rather than convenience — she is stressed about being audited, and about how she would prove delivered service minutes to parents and in a legal setting.
+**Desire:** Something organized that shows her the growth or decline of each student in real time. Underneath that, fear rather than convenience: she is stressed about being audited, and about how she would prove delivered service minutes to parents and in a legal setting.
 
 **Pain with the status quo:** the paper tracker is often lost, hard to read, and takes too long to transfer into a spreadsheet for long-term documentation.
 
 **Attention map:**
-- **Facebook** — professional advice. Primary.
-- **Instagram** — classroom ideas.
-- **Pinterest** — classroom ideas.
-- **TikTok** — occasional.
+- **Facebook**: professional advice. Primary.
+- **Instagram**: classroom ideas.
+- **Pinterest**: classroom ideas.
+- **TikTok**: occasional.
 
 **Adjacent purchases:** trackers from Teachers Pay Teachers, trackers sold in Facebook groups, and DIY Google Forms and spreadsheets. She already spends her own money on classroom systems.
 
@@ -83,15 +83,15 @@ Captured is for special education teachers in self-contained classrooms who walk
 
 ## Channels
 **Active**
-- **Facebook** — main arena. Runs an advisor group of teachers and paraprofessionals. All 42 waitlist signups came from here. This is the only channel with proven output.
+- **Facebook**: main arena. Runs an advisor group of teachers and paraprofessionals. All 42 waitlist signups came from here. This is the only channel with proven output.
 
 **Dormant, account exists**
-- **Instagram** — has it, rarely posts. **Converted to a Business account on 2026-09-16.**
-- **TikTok** — account exists, never used.
+- **Instagram**: has it, rarely posts. **Converted to a Business account on 2026-09-16.**
+- **TikTok**: account exists, never used.
 
 **Wanted, not started**
-- **Pinterest** — wants to build.
-- **TikTok** — wants to post helpful classroom advice, and feature teachers who give advice.
+- **Pinterest**: wants to build.
+- **TikTok**: wants to post helpful classroom advice, and feature teachers who give advice.
 
 ## Numbers
 - Paying customers now: **0**
@@ -108,11 +108,11 @@ Captured is for special education teachers in self-contained classrooms who walk
 Topics only, never voice.
 
 ### What the audience actually consumes
-1. **AbleSpace** — main software competitor, and **teachers recommend it unprompted in the comments of SpEd Facebook groups.** It already has organic word-of-mouth inside the exact rooms Captured sells in. Read those comment threads: what teachers praise, and what nobody mentions, is the content brief.
-2. **Sped and Sprinkles** — TPT tracker seller.
-3. **Frontline** — the special education documentation platform at least one target school runs on. Worth tracking what teachers say about it.
-4. The founder's own Facebook advisor group for teachers and paraprofessionals — the richest live source of what this audience is actually arguing about.
-5. **The Intentional IEP** — https://www.theintentionaliep.com/start-here/ — supplied 2026-09-16, contents not reviewed, no note yet on agreement or disagreement.
+1. **AbleSpace**: main software competitor, and **teachers recommend it unprompted in the comments of SpEd Facebook groups.** It already has organic word-of-mouth inside the exact rooms Captured sells in. Read those comment threads: what teachers praise, and what nobody mentions, is the content brief.
+2. **Sped and Sprinkles**: TPT tracker seller.
+3. **Frontline**: the special education documentation platform at least one target school runs on. Worth tracking what teachers say about it.
+4. The founder's own Facebook advisor group for teachers and paraprofessionals: the richest live source of what this audience is actually arguing about.
+5. **The Intentional IEP**: https://www.theintentionaliep.com/start-here/, supplied 2026-09-16, contents not reviewed, no note yet on agreement or disagreement.
 
 **Still missing, and these are the two that matter:**
 - The large SpEd Facebook groups she does not run, by name.
@@ -126,9 +126,11 @@ Recorded separately so nothing downstream mistakes these for what teachers read.
 - https://www.youtube.com/watch?v=4egPxajtzaE
 
 ## Voice
-Warm, direct, and specific. She thinks in people, not categories — the last teacher she enjoyed working with is "Darren," and the administrator is "Ms. Johnson," never "a stakeholder." Stories carry a concrete detail that proves she was in the room: going nonverbal with Darren and using gestures on the days he was stressed out.
+Warm, direct, and specific. She thinks in people, not categories: a nonverbal autistic student she supported as a para is "Darren," and the administrator is "Ms. Johnson," never "a stakeholder." Stories carry a concrete detail that proves she was in the room: going nonverbal with Darren and using gestures on the days he was stressed out.
 
-First person singular. Domain shorthand used without stopping to explain it — CPI holds, service minutes, caseload, paras, IEP, AAC, S2C — which signals to a teacher that she is one of them. Sentences run medium to long, joined with "and" or "so" rather than broken up. Low hedging. When she has a point of view she states it flat, then explains: "People think Special Education is highly valued when the opposite is actually true."
+Corrected by the founder on 2026-09-22: Darren was a student she supported during her two years as a paraprofessional, not a teacher.
+
+First person singular. Domain shorthand used without stopping to explain it (CPI holds, service minutes, caseload, paras, IEP, AAC, S2C), which signals to a teacher that she is one of them. Sentences run medium to long, joined with "and" or "so" rather than broken up. Low hedging. When she has a point of view she states it flat, then explains: "People think Special Education is highly valued when the opposite is actually true."
 
 Quiet, steady indignation on behalf of teachers, never performed outrage. When she pitches she leads with a helpful second-person offer rather than a feature: "Hey, let me show you how…"
 
@@ -142,14 +144,14 @@ Quiet, steady indignation on behalf of teachers, never performed outrage. When s
 - "Hey, let me show you how…"
 
 **Approved sample, confirmed by the founder as sounding like her:**
-> People think special education is highly valued, and it's the opposite — caseloads get larger every year and the resources never follow. So no, you shouldn't also be the one lying awake before Sam's IEP meeting wondering what you're going to show his parents.
+> People think special education is highly valued, and it's the opposite: caseloads get larger every year and the resources never follow. So no, you shouldn't also be the one lying awake before Sam's IEP meeting wondering what you're going to show his parents.
 
 ## Flags
 - **MVP not ready and never demoed.** No one has seen the product. Every product claim is currently a promise. This is the biggest constraint on the 90-day plan.
 - **Prepay obligation.** The revenue plan is placeholder payments or prepay for an undelivered app. Legitimate as a founding-member presale, but it creates a delivery commitment on a date. Needs clear terms and a refund position before any money is taken.
 - **Target is steep.** 42 waitlist to 300 purchasers and 1,000 waitlist in 90 days, from zero revenue, with no conversion history. Not impossible off a warm Facebook group, but there is no data to project from. Worth pressure-testing in Session 1.
 - **Single-channel dependency.** 100% of demand so far comes from one Facebook group the founder runs. Real strength, and also the whole risk.
-- **Source material partial.** Five audience entries as of 2026-09-16. Two categories still empty: the big SpEd Facebook groups she does not run, and the Instagram accounts her teachers follow — she does not know the latter yet and is researching. Two YouTube links she supplied turned out to be her own learning material, and have been filed separately so they are not mistaken for audience reading.
+- **Source material partial.** Five audience entries as of 2026-09-16. Two categories still empty: the big SpEd Facebook groups she does not run, and the Instagram accounts her teachers follow. She does not know the latter yet and is researching. Two YouTube links she supplied turned out to be her own learning material, and have been filed separately so they are not mistaken for audience reading.
 - **Incumbent has word-of-mouth, Captured does not.** AbleSpace gets recommended unprompted by teachers in SpEd Facebook group comments. Competitive fact and a content opportunity both.
 - **Hybrid.** Districts are the eventual buyer and the Johnson interview shows administrator pull already exists. Not the 90-day motion, but do not let B2C content foreclose it.
 - **No email list mentioned** separate from the waitlist. Unclear how the 42 are being contacted or nurtured.
