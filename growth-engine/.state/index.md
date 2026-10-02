@@ -6,7 +6,7 @@ Track: b2c
 
 | file | gate | status | bytes | count |
 |---|---|---|---|---|
-| brain/founder-brain.md | gate A | ok | 11780 | - |
+| brain/founder-brain.md | gate A | ok | 12517 | - |
 | engines/content/content-30.md | gate B | ok | 15099 | 30 pieces |
 | engines/content/content-30.csv | gate B | ok | 3678 | 30 rows |
 | engines/content/rss-feeds.md | gate B | ok | 920 | - |
@@ -23,4 +23,4 @@ Track: b2c
 | people/ | gate C | missing | - | 0 |
 | inbox/uploads/ | - | - | - | 0 files |
 | brain/voice-samples/ | - | - | - | 1 files |
-| drafts/ | - | - | - | 0 files |
+| drafts/ | - | - | - | 1 files |

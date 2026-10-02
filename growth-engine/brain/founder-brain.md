@@ -56,6 +56,9 @@ Captured is for special education teachers in self-contained classrooms who walk
 - 2 of those as a paraprofessional for nonverbal autistic students.
 - Trained in Spell to Communicate (S2C) techniques.
 - Trained in using AAC devices.
+- 2017 to 2018: Medicare call center, helping seniors choose and use their Medicare plans. In that work she trained about 500 adults in Medicare compliance, half in person and half virtually. The founder counts this inside her 21 years in education: it was teaching, just not in a school (confirmed by the founder on 2026-10-02).
+- One summer as a pharmacy tech.
+- Left her paraprofessional job in May 2026 to build Captured.
 
 **Demand**
 - 42 waitlist signups, all from Facebook.
@@ -136,12 +139,16 @@ Quiet, steady indignation on behalf of teachers, never performed outrage. When s
 
 **Register note:** she also has a formal academic register, seen in coursework ("desirability, viability, and feasibility," "the verdict is still out"). That is useful for grant applications and district-facing documents later. Do not build consumer content from it.
 
+**Spelling and grammar:** always correct spelling and grammar in anything that goes out under her name, including her own pasted writing, without changing her wording otherwise (founder's standing instruction, 2026-10-02).
+
 **Verbatim phrases**
 - "What do I show the parents?"
 - "People think Special Education is highly valued when the opposite is actually true."
 - "caseloads that get larger and larger each year"
 - "We had our own flow."
 - "Hey, let me show you how…"
+- "Respect creates respect."
+- "This was NOT my circus, and these weren't my monkeys."
 
 **Approved sample, confirmed by the founder as sounding like her:**
 > People think special education is highly valued, and it's the opposite: caseloads get larger every year and the resources never follow. So no, you shouldn't also be the one lying awake before Sam's IEP meeting wondering what you're going to show his parents.
