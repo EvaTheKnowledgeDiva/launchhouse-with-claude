@@ -22,5 +22,5 @@ Track: b2c
 | log/ops-log.md | - | ok | 131 | - |
 | people/ | gate C | missing | - | 0 |
 | inbox/uploads/ | - | - | - | 0 files |
-| brain/voice-samples/ | - | - | - | 0 files |
+| brain/voice-samples/ | - | - | - | 1 files |
 | drafts/ | - | - | - | 0 files |
